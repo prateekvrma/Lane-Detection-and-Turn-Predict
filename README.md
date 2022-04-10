@@ -28,7 +28,8 @@ OpenCV     (For Visualization and visual computation)
 3. Go to the folder location in the terminal.
 4. Run the python file with the following command :
 
-Example: -------------------------------------------------------------------------
+Example: -------------------------------------------
+
 python "filename".py 
 
 For the following files for each section:
