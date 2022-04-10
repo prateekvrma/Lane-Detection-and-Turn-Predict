@@ -1,4 +1,4 @@
-# ENPM673: Project 2
+
 # 1. Histogram Equalization
 # 2. Lane Detection
 # 3. Predict Turn
@@ -27,10 +27,13 @@ detectLane.py
 
 turnPredict.py
 
----------------------------------------------------------------------------------
-
 5. Next check output in the corresponding Output folder.
 
+Lane Detection
+![](https://github.com/prateekvrma/Lane-Detection-and-Turn-Predict/blob/main/lane-video-out.gif)
+
+Predict Turn
+![](https://github.com/prateekvrma/Lane-Detection-and-Turn-Predict/blob/main/TurnPredict.gif)
 
 
 ## Results
