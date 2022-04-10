@@ -1,13 +1,25 @@
 
-# 1. Histogram Equalization
-# 2. Lane Detection
-# 3. Predict Turn
- 
+## 1. Histogram Equalization
+
+Aim to improve the quality of the image sequence provided as most of the Computer Vision pipelines for lane detection or other self-driving tasks require good lighting conditions and color information for detecting good features.
+
+## 2. Lane Detection
+
+In this problem we aim to do simple Lane Detection to mimic Lane Departure Warning systems used in Self Driving Cars.
+
+## 3. Predict Turn
+
+In this problem, we aim to detect the curved lanes and predict the turn depending on the
+curvature: either left or right turn.
 
 ## Dependencies
+
 Python 3.7 or later
+
 Numpy      (For numerical computation)
+
 Math       (For Mathematical Operations)
+
 OpenCV     (For Visualization and visual computation)
 
 ## Steps for Execution
